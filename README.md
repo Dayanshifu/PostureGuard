@@ -7,7 +7,7 @@ PostureGuard 是一个基于 Android 的实时坐姿监测应用，使用 MediaP
 ---
 
 ## Features / 功能
-
+![](https://cdn-community.bcmcdn.com/47/community/NXhiqasPXiEywW1AXrc1ntdv4bQlgbcNxQYQMbwFrgLf.jpg?hash=Fp9sokbDo3ZH5diPjk3aGIFh6jYa)
 ### English
 - Real-time posture analysis from camera frames.
 - Front-view mode: detects shoulder tilt and head tilt.
